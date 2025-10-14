@@ -21,7 +21,7 @@ body {
     align-items: center;
     position: relative;
     top: 174px;
-    gap: 64px;
+    gap: 100px;
 }
 
 .h-box-content {
@@ -116,7 +116,7 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    gap: 64px;
+    gap: 92px;
 }
 .head_main_body_2 {
     width: 736px;
@@ -153,6 +153,8 @@ body {
     height: 356px;
 }
 .box_main_body_2_1 {
+    width: 536px;
+    height: 356px;
 }
 .box_img {
     width: 64px;
@@ -383,7 +385,7 @@ body {
 .text_body_6 {
     display: flex;
     flex-direction: row;
-    gap: 80px;
+    gap: 16px;
     height: 530px;
 }
 .title_container_body_6 {
